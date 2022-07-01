@@ -1,0 +1,7 @@
+# scrum-team
+
+#CEREMONIAS
+
+#ARTEFACTOS
+
+#ROLES
