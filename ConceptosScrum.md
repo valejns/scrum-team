@@ -1,10 +1,7 @@
 # Scrum-Team
 
 # CEREMONIAS
--Sprint Planning Meeting
--Daily Scrum Meeting
--Sprint Review Meeting
--Sprint Retrospective Meeting
+-Sprint Planning Meeting  -Daily Scrum Meeting  -Sprint Review Meeting  -Sprint Retrospective Meeting
 
 # ARTEFACTOS
 -Pila del Producto (product backlog)
