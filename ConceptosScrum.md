@@ -1,4 +1,4 @@
-# Scrum-Team :) 
+# Scrum-Team
 
 ## CEREMONIAS
 ```
@@ -20,5 +20,4 @@
 -Product Owner
 -Scrum Master
 -Development Team
-
 ```
