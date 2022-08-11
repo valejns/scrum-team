@@ -4,7 +4,7 @@ A.  Introduccion a la programacion: Python
 
 Numero de Ejercicio - Nombre Completo de Alumno - Rama/Branch
 
-1. --------
+1. María Paz Mario
 2. --------
 3. Valentina Muratore
 4. --------
