@@ -32,7 +32,7 @@ Numero de Ejercicio - Nombre Completo de Alumno - Rama/Branch
 3. --------
 4. --------
 5. --------
-6. --------
+6. Valentina Muratore
 7. --------
 8. --------
 9. --------
