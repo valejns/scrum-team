@@ -5,8 +5,8 @@ A.  Introduccion a la programacion: Python
 Numero de Ejercicio - Nombre Completo de Alumno - Rama/Branch
 
 1. --------
-2. Valentina Muratore
-3. --------
+2. --------
+3. Valentina Muratore
 4. --------
 5. --------
 6. --------
