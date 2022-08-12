@@ -1,4 +1,4 @@
-# 3)  Crear un lista en Python denominado “Perro” que contenga los siguientes valores:
+# 3) Crear un lista en Python denominado “Perro” que contenga los siguientes valores:
 
 # 13,  Puppy,  12/12/2012 , Macho, 123
 
