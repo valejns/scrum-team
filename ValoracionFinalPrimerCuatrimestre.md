@@ -9,7 +9,7 @@ Numero de Ejercicio - Nombre Completo de Alumno - Rama/Branch
 3. Valentina Muratore
 4. --------
 5. --------
-6. --------
+6. Nuria Zárate
 7. --------
 8. --------
 9. --------
