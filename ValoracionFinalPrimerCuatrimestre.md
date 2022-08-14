@@ -7,7 +7,7 @@ Numero de Ejercicio - Nombre Completo de Alumno - Rama/Branch
 1. María Paz Mario
 2. Florencia Córdoba
 3. Valentina Muratore
-4. Francisco Pereyra
+4. Francisco Pereyra - Francisco
 5. --------
 6. Nuria Zárate
 7. --------
@@ -35,7 +35,7 @@ Numero de Ejercicio - Nombre Completo de Alumno - Rama/Branch
 6. Valentina Muratore
 7. Facundo Perez
 8. Aram Guzelian / aramguzelian
-9. Francisco Pereyra
+9. Francisco Pereyra - Francisco
 10. Nuria Zárate
 
 
