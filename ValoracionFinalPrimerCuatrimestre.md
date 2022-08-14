@@ -28,11 +28,11 @@ D. Subir Script .sql con todos los puntos mencionados a su rama del GitHub grupa
 Numero de Ejercicio - Nombre Completo de Alumno - Rama/Branch
 
 3. Jesus Bilchi / Jesus_Bilchi
-4. --------
+4. María Paz Mario
 5. 
-6. María Paz Mario
+6. Valentina Muratore
 7. --------
-8. Valentina Muratore
+8. --------
 9. Facundo Perez
 10. Aram Guzelian / aramguzelian
 11. Francisco Pereyra - Francisco
