@@ -1,6 +1,6 @@
 ----------- BASE DATOS -------------
 
--------TABLAS-------
+-------TABLAS--------
 
 CREATE TABLE Perro (
 ID_perro INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
