@@ -12,7 +12,7 @@ Numero de Ejercicio - Nombre Completo de Alumno - Rama/Branch
 6. Nuria Zárate
 7. --------
 8. --------
-9. --------
+9. Aram Guzelian / aramguzelian
 10. Facundo Perez 
 
 
@@ -34,7 +34,7 @@ Numero de Ejercicio - Nombre Completo de Alumno - Rama/Branch
 5. --------
 6. Valentina Muratore
 7. Facundo Perez
-8. --------
+8. Aram Guzelian / aramguzelian
 9. --------
 10. Nuria Zárate
 
