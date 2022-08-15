@@ -29,13 +29,13 @@ Numero de Ejercicio - Nombre Completo de Alumno - Rama/Branch
 
 3. Jesus Bilchi / Jesus_Bilchi
 4. María Paz Mario
-5. 
+5. ---
 6. Valentina Muratore
 7. Florencia Córdoba
-8. --------
+8. Francisco Pereyra - Francisco
 9. Facundo Perez
 10. Aram Guzelian / aramguzelian
-11. Francisco Pereyra - Francisco
+11. ---
 12. Nuria Zárate
 
 
