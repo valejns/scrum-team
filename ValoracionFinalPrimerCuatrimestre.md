@@ -31,7 +31,7 @@ Numero de Ejercicio - Nombre Completo de Alumno - Rama/Branch
 4. María Paz Mario
 5. 
 6. Valentina Muratore
-7. --------
+7. Florencia Córdoba
 8. --------
 9. Facundo Perez
 10. Aram Guzelian / aramguzelian
